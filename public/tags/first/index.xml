@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>First on Sitotest</title>
+    <link>http://localhost:1313/tags/first/</link>
+    <description>Recent content in First on Sitotest</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 30 Jul 2025 19:47:20 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quarto Post</title>
+      <link>http://localhost:1313/posts/quarto-post/</link>
+      <pubDate>Wed, 30 Jul 2025 19:47:20 +0200</pubDate>
+      <guid>http://localhost:1313/posts/quarto-post/</guid>
+      <description>Il mio quarto post</description>
+    </item>
+  </channel>
+</rss>

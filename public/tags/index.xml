@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Sitotest</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Sitotest</description>
+    <generator>Hugo -- 0.148.2</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 30 Jul 2025 19:39:49 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sport</title>
+      <link>http://localhost:1313/tags/sport/</link>
+      <pubDate>Wed, 30 Jul 2025 19:39:49 +0200</pubDate>
+      <guid>http://localhost:1313/tags/sport/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Musica</title>
+      <link>http://localhost:1313/tags/musica/</link>
+      <pubDate>Wed, 30 Jul 2025 19:39:37 +0200</pubDate>
+      <guid>http://localhost:1313/tags/musica/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Daje</title>
+      <link>http://localhost:1313/tags/daje/</link>
+      <pubDate>Wed, 30 Jul 2025 18:31:11 +0200</pubDate>
+      <guid>http://localhost:1313/tags/daje/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

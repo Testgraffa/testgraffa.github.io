@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-07-30T20:39:09+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-07-30T20:39:09+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sport/</loc>
+    <lastmod>2025-07-30T19:39:49+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-07-30T19:39:49+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/terzo-post/</loc>
+    <lastmod>2025-07-30T19:39:49+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/musica/</loc>
+    <lastmod>2025-07-30T19:39:37+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/secondo-post/</loc>
+    <lastmod>2025-07-30T19:39:37+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/daje/</loc>
+    <lastmod>2025-07-30T18:31:11+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/primo-post/</loc>
+    <lastmod>2025-07-30T18:31:11+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url>
+</urlset>
