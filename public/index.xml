@@ -6,8 +6,30 @@
     <description>Recent content on Sitotest</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Jul 2025 19:39:49 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 21:19:37 +0200</lastBuildDate>
     <atom:link href="https://testgraffa.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quinto Post</title>
+      <link>https://testgraffa.github.io/posts/quinto-post/</link>
+      <pubDate>Wed, 30 Jul 2025 21:19:37 +0200</pubDate>
+      <guid>https://testgraffa.github.io/posts/quinto-post/</guid>
+      <description>&lt;h2 id=&#34;come-pubblicare-un-nuovo-post-su-github-pages&#34;&gt;Come pubblicare un nuovo post su GitHub Pages&lt;/h2&gt;
+&lt;p&gt;Supponiamo che tu voglia aggiungere un nuovo post al tuo sito Hugo. Ecco cosa devi fare:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Scrivi il tuo post dentro la cartella &lt;code&gt;content/&lt;/code&gt; del progetto:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hugo new posts/il-mio-nuovo-post.md
+&lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Modifica il file appena creato, aggiungendo titolo, testo, ecc. Puoi farlo con un editor qualsiasi&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Verifica che il sito funzioni in locale:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hugo server -D
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;(il -D serve per includere contenuti in bozza, se non hai rimosso lo stato draft: true)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Terzo Post</title>
       <link>https://testgraffa.github.io/posts/terzo-post/</link>
