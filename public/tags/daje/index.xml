@@ -20,6 +20,14 @@ Sono andato a capo di una riga battendo invio.&lt;/p&gt;
 &lt;p&gt;Adesso invece di 3, battendo 3 volte invio.&lt;/p&gt;
 &lt;p&gt;Proviamo un po&amp;rsquo; di cose random: &lt;strong&gt;questo è il grassetto&lt;/strong&gt;, &lt;em&gt;questo dovrebbe essere il corsivo&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Questo invece è &lt;a href=&#34;https://debian.org&#34;&gt;un link&lt;/a&gt;.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="prova">Prova</h2>
+<p>Sembra più facile di Zola, è solo un po&rsquo; più macchinoso.
+Sono andato a capo di una riga battendo invio.</p>
+<p>Adesso invece sono andato a capo di due righe, battendo 2 volte invio.</p>
+<p>Adesso invece di 3, battendo 3 volte invio.</p>
+<p>Proviamo un po&rsquo; di cose random: <strong>questo è il grassetto</strong>, <em>questo dovrebbe essere il corsivo</em>.</p>
+<p>Questo invece è <a href="https://debian.org">un link</a>.</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

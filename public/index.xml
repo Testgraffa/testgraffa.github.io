@@ -9,10 +9,10 @@
     <lastBuildDate>Wed, 30 Jul 2025 21:19:37 +0200</lastBuildDate>
     <atom:link href="https://testgraffa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Quinto Post</title>
-      <link>https://testgraffa.github.io/posts/quinto-post/</link>
+      <title>Quarto Post</title>
+      <link>https://testgraffa.github.io/posts/quarto-post/</link>
       <pubDate>Wed, 30 Jul 2025 21:19:37 +0200</pubDate>
-      <guid>https://testgraffa.github.io/posts/quinto-post/</guid>
+      <guid>https://testgraffa.github.io/posts/quarto-post/</guid>
       <description>&lt;h2 id=&#34;come-pubblicare-un-nuovo-post-su-github-pages&#34;&gt;Come pubblicare un nuovo post su GitHub Pages&lt;/h2&gt;
 &lt;p&gt;Supponiamo che tu voglia aggiungere un nuovo post al tuo sito Hugo. Ecco cosa devi fare:&lt;/p&gt;
 &lt;ol&gt;
@@ -29,6 +29,44 @@
 &lt;/ol&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hugo server -D
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;(il -D serve per includere contenuti in bozza, se non hai rimosso lo stato draft: true)&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="come-pubblicare-un-nuovo-post-su-github-pages">Come pubblicare un nuovo post su GitHub Pages</h2>
+<p>Supponiamo che tu voglia aggiungere un nuovo post al tuo sito Hugo. Ecco cosa devi fare:</p>
+<ol>
+<li>Scrivi il tuo post dentro la cartella <code>content/</code> del progetto:</li>
+</ol>
+<pre tabindex="0"><code>hugo new posts/il-mio-nuovo-post.md
+</code></pre><ol start="2">
+<li>
+<p>Modifica il file appena creato, aggiungendo titolo, testo, ecc. Puoi farlo con un editor qualsiasi</p>
+</li>
+<li>
+<p>Verifica che il sito funzioni in locale:</p>
+</li>
+</ol>
+<pre tabindex="0"><code>hugo server -D
+</code></pre><p>(il -D serve per includere contenuti in bozza, se non hai rimosso lo stato draft: true)</p>
+<ol start="4">
+<li>Genera il sito statico aggiornato:</li>
+</ol>
+<pre tabindex="0"><code>hugo
+</code></pre><p>Questo rigenera la cartella <code>public/</code> con il nuovo post.</p>
+<ol start="5">
+<li>Fai il commit delle modifiche e inviale a GitHub:</li>
+</ol>
+<pre tabindex="0"><code>git add .
+git commit -m &#34;Aggiunto nuovo post: il-mio-nuovo-post&#34;
+git push
+</code></pre><p>Ovviamente il tutto va fatto dalla root del tuo sito.</p>
+<h3 id="e-a-quel-punto-fa-tutto-da-solo">E a quel punto&hellip; fa tutto da solo!</h3>
+<p>Quando GitHub riceve il push sulla branch <code>main</code>, la GitHub Action entra in funzione automaticamente, rigenera il sito e aggiorna la branch <code>gh-pages</code>. Dopo pochi secondi, vedrai il nuovo post online.</p>
+<h2 id="extra-bonus-tip">Extra bonus tip!</h2>
+<p>Se vuoi far sì che i lettori dei feed RSS possano leggere gli articoli per intero devi aggiungere questa riga nella voce <code>params</code> del file yaml:</p>
+<pre tabindex="0"><code>ShowFullTextinRSS: true
+</code></pre><p>Se non c&rsquo;è la voce <code>params</code> nel file yaml devi ovviamente aggiungerla, a quel punto allora devi fare:</p>
+<pre tabindex="0"><code>params:
+ShowFullTextinRSS: true
+</code></pre><p>Ed ecco fatto! Ovviamente dovrai anche fare il punto 5 spiegato più sopra. Quello va fatto sempre ad ogni modifica che vuoi pushare su GitHub!</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Terzo Post</title>
@@ -37,6 +75,12 @@
       <guid>https://testgraffa.github.io/posts/terzo-post/</guid>
       <description>&lt;p&gt;Terzo post! Dajeeeeee&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Terzo post! Dajeeeeee</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Secondo Post</title>
@@ -45,6 +89,12 @@
       <guid>https://testgraffa.github.io/posts/secondo-post/</guid>
       <description>&lt;p&gt;Questo è il secondo! Yoyoyooo!&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Questo è il secondo! Yoyoyooo!</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Primo Post</title>
@@ -58,6 +108,14 @@ Sono andato a capo di una riga battendo invio.&lt;/p&gt;
 &lt;p&gt;Adesso invece di 3, battendo 3 volte invio.&lt;/p&gt;
 &lt;p&gt;Proviamo un po&amp;rsquo; di cose random: &lt;strong&gt;questo è il grassetto&lt;/strong&gt;, &lt;em&gt;questo dovrebbe essere il corsivo&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Questo invece è &lt;a href=&#34;https://debian.org&#34;&gt;un link&lt;/a&gt;.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="prova">Prova</h2>
+<p>Sembra più facile di Zola, è solo un po&rsquo; più macchinoso.
+Sono andato a capo di una riga battendo invio.</p>
+<p>Adesso invece sono andato a capo di due righe, battendo 2 volte invio.</p>
+<p>Adesso invece di 3, battendo 3 volte invio.</p>
+<p>Proviamo un po&rsquo; di cose random: <strong>questo è il grassetto</strong>, <em>questo dovrebbe essere il corsivo</em>.</p>
+<p>Questo invece è <a href="https://debian.org">un link</a>.</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>
