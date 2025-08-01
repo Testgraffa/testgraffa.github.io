@@ -4,6 +4,8 @@ draft: false
 title: 'Sesto Post'
 categories: ["Viaggi"]
 tags: ["Random"]
+cover:
+  image: images/drstone.jpg
 ---
 
 Sesto post, solo per vedere quanti ne mette nella home. Credo che mostri solo gli ultimi 5, vediamo. 

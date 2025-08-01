@@ -3,6 +3,8 @@ date: '2025-07-30T19:39:49+02:00'
 draft: false
 title: 'Terzo Post'
 tags: ["Sport"]
+cover:
+  image: images/3.jpg
 ---
 
 Terzo post! Dajeeeeee

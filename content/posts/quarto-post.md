@@ -4,6 +4,8 @@ draft: false
 title: 'Quarto Post'
 tags: ["GitHub", "RSS"]
 categories: ["Guide"]
+cover:
+  image: images/4.webp
 ---
 
 ## Come pubblicare un nuovo post su GitHub Pages

@@ -4,6 +4,8 @@ draft: false
 title: 'Quinto Post'
 tags: ["Prova"]
 categories: ["Test"]
+cover:
+  image: images/5.jpg
 ---
 
 # Ennesimo post di prova riempitivo

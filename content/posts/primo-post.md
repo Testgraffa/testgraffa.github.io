@@ -3,6 +3,8 @@ date: '2025-07-30T18:31:11+02:00'
 draft: false
 title: 'Primo Post'
 tags: ["Daje"]
+cover:
+  image: images/1.jpg
 ---
 
 ## Prova

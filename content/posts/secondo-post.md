@@ -3,6 +3,8 @@ date: '2025-07-30T19:39:37+02:00'
 draft: false
 title: 'Secondo Post'
 tags: ["musica"]
+cover:
+  image: images/2.webp
 ---
 
 Questo è il secondo! Yoyoyooo!
