@@ -2,7 +2,8 @@
 date: '2025-07-30T21:19:37+02:00'
 draft: false
 title: 'Quarto Post'
-tags: ["github"]
+tags: ["GitHub", "RSS"]
+categories: ["Guide"]
 ---
 
 ## Come pubblicare un nuovo post su GitHub Pages

@@ -2,17 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Sitotest</title>
-    <link>https://testgraffa.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Sitotest</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Jul 2025 21:19:37 +0200</lastBuildDate>
-    <atom:link href="https://testgraffa.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Aug 2025 08:54:13 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sesto Post</title>
+      <link>http://localhost:1313/posts/sesto-post/</link>
+      <pubDate>Fri, 01 Aug 2025 08:54:13 +0200</pubDate>
+      <guid>http://localhost:1313/posts/sesto-post/</guid>
+      <description>&lt;p&gt;Sesto post, solo per vedere quanti ne mette nella home. Credo che mostri solo gli ultimi 5, vediamo.&lt;/p&gt;
+&lt;p&gt;Nel dubbio, un po&amp;rsquo; di lorem ipsum che male non fa! 😂&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Sesto post, solo per vedere quanti ne mette nella home. Credo che mostri solo gli ultimi 5, vediamo.</p>
+<p>Nel dubbio, un po&rsquo; di lorem ipsum che male non fa! 😂</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+<h2 id="ancora-lorem-forever-">Ancora, lorem forever ❤️</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+<h1 id="-emoji-in-h1">🙃 emoji in h1</h1>
+<h2 id="-emoji-in-h2">🙃 emoji in h2</h2>
+<h3 id="-emoji-in-h3">🙃 emoji in h3</h3>
+<p>Non ho ancora provato le tabelle. Tabella a caso:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Colonna 1</th>
+          <th>Colonna 2</th>
+          <th>Colonna 3 😁</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Riga 1</td>
+          <td>Daje 😀</td>
+          <td>Yoooo</td>
+      </tr>
+      <tr>
+          <td>Riga 2 😎</td>
+          <td>Sì</td>
+          <td>No</td>
+      </tr>
+      <tr>
+          <td>Riga 3</td>
+          <td>12345678901234567890</td>
+          <td>😉 1234567890</td>
+      </tr>
+  </tbody>
+</table>
+<p>🤯 Pazzescoooooohhh!!!!</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Quinto Post</title>
+      <link>http://localhost:1313/posts/quinto-post/</link>
+      <pubDate>Thu, 31 Jul 2025 16:17:50 +0200</pubDate>
+      <guid>http://localhost:1313/posts/quinto-post/</guid>
+      <description>&lt;h1 id=&#34;ennesimo-post-di-prova-riempitivo&#34;&gt;Ennesimo post di prova riempitivo&lt;/h1&gt;
+&lt;p&gt;Questa volta voglio giocare un po&amp;rsquo; con il markdown.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. &lt;strong&gt;Duis aute irure dolor in reprehenderit&lt;/strong&gt; in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h1 id="ennesimo-post-di-prova-riempitivo">Ennesimo post di prova riempitivo</h1>
+<p>Questa volta voglio giocare un po&rsquo; con il markdown.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <strong>Duis aute irure dolor in reprehenderit</strong> in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p><em>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</em>. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+<p>Questo è il <code>code inline</code>. Non mi ricordo come si fanno le tabelle ma ricordo che era semplicissimo. Non ho voglia di andare a cercare</p>
+<blockquote>
+<p>Questa dovrebbe essere una citazione se non ricordo male.</p></blockquote>
+<p>Ed ora invece vai di elenchi puntati:</p>
+<ul>
+<li>questo</li>
+<li>è</li>
+<li>un</li>
+<li>fottuto</li>
+<li>elenco</li>
+<li>puntato</li>
+</ul>
+<p>Altre cose non me le ricordo, ma dovrebbe bastare.</p>
+<h2 id="anzi-no-questo-è-un-titolo-h2-credo">Anzi no, questo è un titolo h2 credo!</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+<h3 id="e-questo-invece-un-titolo-h3">E questo invece un titolo h3</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+<p>Ok, basta. Ciao.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Quarto Post</title>
-      <link>https://testgraffa.github.io/posts/quarto-post/</link>
+      <link>http://localhost:1313/posts/quarto-post/</link>
       <pubDate>Wed, 30 Jul 2025 21:19:37 +0200</pubDate>
-      <guid>https://testgraffa.github.io/posts/quarto-post/</guid>
+      <guid>http://localhost:1313/posts/quarto-post/</guid>
       <description>&lt;h2 id=&#34;come-pubblicare-un-nuovo-post-su-github-pages&#34;&gt;Come pubblicare un nuovo post su GitHub Pages&lt;/h2&gt;
 &lt;p&gt;Supponiamo che tu voglia aggiungere un nuovo post al tuo sito Hugo. Ecco cosa devi fare:&lt;/p&gt;
 &lt;ol&gt;
@@ -70,9 +154,9 @@ ShowFullTextinRSS: true
     </item>
     <item>
       <title>Terzo Post</title>
-      <link>https://testgraffa.github.io/posts/terzo-post/</link>
+      <link>http://localhost:1313/posts/terzo-post/</link>
       <pubDate>Wed, 30 Jul 2025 19:39:49 +0200</pubDate>
-      <guid>https://testgraffa.github.io/posts/terzo-post/</guid>
+      <guid>http://localhost:1313/posts/terzo-post/</guid>
       <description>&lt;p&gt;Terzo post! Dajeeeeee&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Terzo post! Dajeeeeee</p>
@@ -84,9 +168,9 @@ ShowFullTextinRSS: true
     </item>
     <item>
       <title>Secondo Post</title>
-      <link>https://testgraffa.github.io/posts/secondo-post/</link>
+      <link>http://localhost:1313/posts/secondo-post/</link>
       <pubDate>Wed, 30 Jul 2025 19:39:37 +0200</pubDate>
-      <guid>https://testgraffa.github.io/posts/secondo-post/</guid>
+      <guid>http://localhost:1313/posts/secondo-post/</guid>
       <description>&lt;p&gt;Questo è il secondo! Yoyoyooo!&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Questo è il secondo! Yoyoyooo!</p>
@@ -98,9 +182,9 @@ ShowFullTextinRSS: true
     </item>
     <item>
       <title>Primo Post</title>
-      <link>https://testgraffa.github.io/posts/primo-post/</link>
+      <link>http://localhost:1313/posts/primo-post/</link>
       <pubDate>Wed, 30 Jul 2025 18:31:11 +0200</pubDate>
-      <guid>https://testgraffa.github.io/posts/primo-post/</guid>
+      <guid>http://localhost:1313/posts/primo-post/</guid>
       <description>&lt;h2 id=&#34;prova&#34;&gt;Prova&lt;/h2&gt;
 &lt;p&gt;Sembra più facile di Zola, è solo un po&amp;rsquo; più macchinoso.
 Sono andato a capo di una riga battendo invio.&lt;/p&gt;

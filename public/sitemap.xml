@@ -2,39 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://testgraffa.github.io/tags/github/</loc>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-08-01T08:54:13+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-08-01T08:54:13+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/random/</loc>
+    <lastmod>2025-08-01T08:54:13+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/sesto-post/</loc>
+    <lastmod>2025-08-01T08:54:13+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-08-01T08:54:13+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-08-01T08:54:13+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/viaggi/</loc>
+    <lastmod>2025-08-01T08:54:13+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/prova/</loc>
+    <lastmod>2025-07-31T16:17:50+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/quinto-post/</loc>
+    <lastmod>2025-07-31T16:17:50+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/test/</loc>
+    <lastmod>2025-07-31T16:17:50+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/github/</loc>
     <lastmod>2025-07-30T21:19:37+02:00</lastmod>
   </url><url>
-    <loc>https://testgraffa.github.io/posts/</loc>
+    <loc>http://localhost:1313/categories/guide/</loc>
     <lastmod>2025-07-30T21:19:37+02:00</lastmod>
   </url><url>
-    <loc>https://testgraffa.github.io/posts/quarto-post/</loc>
+    <loc>http://localhost:1313/posts/quarto-post/</loc>
     <lastmod>2025-07-30T21:19:37+02:00</lastmod>
   </url><url>
-    <loc>https://testgraffa.github.io/</loc>
+    <loc>http://localhost:1313/tags/rss/</loc>
     <lastmod>2025-07-30T21:19:37+02:00</lastmod>
   </url><url>
-    <loc>https://testgraffa.github.io/tags/</loc>
-    <lastmod>2025-07-30T21:19:37+02:00</lastmod>
-  </url><url>
-    <loc>https://testgraffa.github.io/tags/sport/</loc>
+    <loc>http://localhost:1313/tags/sport/</loc>
     <lastmod>2025-07-30T19:39:49+02:00</lastmod>
   </url><url>
-    <loc>https://testgraffa.github.io/posts/terzo-post/</loc>
+    <loc>http://localhost:1313/posts/terzo-post/</loc>
     <lastmod>2025-07-30T19:39:49+02:00</lastmod>
   </url><url>
-    <loc>https://testgraffa.github.io/tags/musica/</loc>
+    <loc>http://localhost:1313/tags/musica/</loc>
     <lastmod>2025-07-30T19:39:37+02:00</lastmod>
   </url><url>
-    <loc>https://testgraffa.github.io/posts/secondo-post/</loc>
+    <loc>http://localhost:1313/posts/secondo-post/</loc>
     <lastmod>2025-07-30T19:39:37+02:00</lastmod>
   </url><url>
-    <loc>https://testgraffa.github.io/tags/daje/</loc>
+    <loc>http://localhost:1313/tags/daje/</loc>
     <lastmod>2025-07-30T18:31:11+02:00</lastmod>
   </url><url>
-    <loc>https://testgraffa.github.io/posts/primo-post/</loc>
+    <loc>http://localhost:1313/posts/primo-post/</loc>
     <lastmod>2025-07-30T18:31:11+02:00</lastmod>
-  </url><url>
-    <loc>https://testgraffa.github.io/categories/</loc>
   </url>
 </urlset>

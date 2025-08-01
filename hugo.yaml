@@ -15,17 +15,16 @@ params:
   title: Sitotest
   description: "Sito di prova"
   author: Testgraffa
-  # author: ["Me", "You"] # multiple authors
   DateFormat: "January 2, 2006"
-  defaultTheme: dark # dark, light
+  defaultTheme: auto # dark, light
   disableThemeToggle: false
 
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowShareButtons: true
-  ShowPostNavLinks: true
+  ShowPostNavLinks: false
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
-  ShowWordCount: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   ShowFullTextinRSS: true
   UseHugoToc: true
@@ -72,12 +71,10 @@ params:
     Content: Benvenuti in uno squallido sito di prova!
 
   socialIcons:
-    - name: peertube
-      url: "https://peertube.uno/"
-    - name: mastodon
-      url: "hhttps://mastodon.uno"
     - name: signal
       url: "https://signal.org"
+    - name: rss
+      url: "https://testgraffa.github.io/posts/index.xml"
 
 
   cover:
@@ -99,18 +96,19 @@ params:
     
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: posts
+      name: Post
+      url: /posts/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: categories
+      name: Categorie
+      url: /categories/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: tags
+      name: Tag
+      url: /tags/
       weight: 30
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
