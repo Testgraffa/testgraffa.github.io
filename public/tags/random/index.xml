@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Random on Sitotest</title>
-    <link>http://localhost:1313/tags/random/</link>
+    <link>https://testgraffa.github.io/tags/random/</link>
     <description>Recent content in Random on Sitotest</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
     <lastBuildDate>Fri, 01 Aug 2025 08:54:13 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/random/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://testgraffa.github.io/tags/random/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sesto Post</title>
-      <link>http://localhost:1313/posts/sesto-post/</link>
+      <link>https://testgraffa.github.io/posts/sesto-post/</link>
       <pubDate>Fri, 01 Aug 2025 08:54:13 +0200</pubDate>
-      <guid>http://localhost:1313/posts/sesto-post/</guid>
+      <guid>https://testgraffa.github.io/posts/sesto-post/</guid>
       <description>&lt;p&gt;Sesto post, solo per vedere quanti ne mette nella home. Credo che mostri solo gli ultimi 5, vediamo.&lt;/p&gt;
 &lt;p&gt;Nel dubbio, un po&amp;rsquo; di lorem ipsum che male non fa! 😂&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</description>
