@@ -2,6 +2,9 @@ baseURL: "https://testgraffa.github.io/"
 title: Sitotest
 theme: PaperMod
 
+pagination:
+  pagerSize: 5
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -39,15 +42,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: /favicon/favicon.ico
+    favicon16x16: /favicon/favicon-16x16.png
+    favicon32x32: /favicon/favicon-32x32.png
+    apple_touch_icon: /favicon/apple-touch-icon.png
+    safari_pinned_tab: /favicon/apple-touch-icon.png
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
+    icon: /favicon/apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
@@ -55,7 +58,7 @@ params:
     enabled: false # needs to be explicitly set
     title: Sitotest
     subtitle: "Questo è il sottotitolo"
-    imageUrl: "<img location>"
+    imageUrl: "/favicons/apple-touch-icon.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
@@ -69,6 +72,7 @@ params:
   homeInfoParams:
     Title: "Sciao belli \U0001F44B"
     Content: Benvenuti in uno squallido sito di prova!
+    
 
   socialIcons:
     - name: signal
@@ -90,9 +94,10 @@ params:
     
 menu:
   main:
-    - identifier: posts
-      name: Post
-      url: /posts/
+    
+    - identifier: about
+      name: About
+      url: /about/
       weight: 10
     - identifier: categories
       name: Categorie
@@ -102,6 +107,10 @@ menu:
       name: Tag
       url: /tags/
       weight: 30
+    - identifier: archives
+      name: Archivio
+      url: /archives/
+      weight: 40
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
